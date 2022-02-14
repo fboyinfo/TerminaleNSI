@@ -1,7 +1,7 @@
 # Activités débranchés :
 
 Présentation vidéo disponible :
-
+214301_Pres_Activite_RIP_IP_Routage.mp4
 
 ## Activité 1 : Convergence de table de routage (RIP)
 Les documents nécessaires sont préfixés 214301 ou 214301C pour les corrections.
@@ -22,7 +22,7 @@ version corrigée dans 214301C_Routages_Reseaux_Adressage.pdf
 214302_AdresseIP_SousReseaux_Masque.ipynb
 Avec les fonctions Python pour expliquer les masques.
 
-# Autre support :
+# Autres supports :
 
 ## Diaporama Adressage IP et sous réseau :
 214302_Addressage_Machine_Reseau.pptx
